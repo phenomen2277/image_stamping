@@ -57,7 +57,7 @@ module ImageStamping
 
     private
     def file_exists?(file)
-      return true if (File.file?(file))
+      return true if File.file?(file)
       false
     end
   end
