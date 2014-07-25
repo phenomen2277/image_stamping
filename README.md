@@ -50,6 +50,9 @@ i.font_color = "yellow"
 #And font style would be italic
 i.font_italic = true
 
+#How about a bold font!?
+i.font_bold = true
+
 #The input file to work on would be...
 i.input_file = "image.jpg"
 
