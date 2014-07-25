@@ -54,7 +54,7 @@ i.font_italic = true
 i.input_file = "image.jpg"
 
 #The new file with the text would be called...
-i.output_file = "image_stamped"
+i.output_file = "image_stamped.jpg"
 
 #Stamp the image with the text given as the first parameter
 #The second parameter would be the width of the rectangle within which the text is positioned (default = 0)
